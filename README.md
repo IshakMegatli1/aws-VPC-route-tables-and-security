@@ -1,13 +1,5 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # VPC Traffic Flow and Security
-
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-security)
-
-**Author:** ElHalouf  
-**Email:** shakyleboss@gmail.com
-
----
 
 ## VPC Traffic Flow and Security
 
@@ -20,14 +12,6 @@
 ### What is Amazon VPC?
 
 Amazon VPC lets you launch AWS resources in a logically isolated virtual network you define. It’s useful because you control IP ranges, subnets, routing, and traffic rules to improve security, segmentation, and connectivity.
-
-### How I used Amazon VPC in this project
-
-...
-
-### One thing I didn't expect in this project was...
-
-...
 
 ### This project took me...
 
